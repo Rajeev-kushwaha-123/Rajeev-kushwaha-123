@@ -1,4 +1,4 @@
-About <br>
+<h2>About</h2> <br>
 I am pursuing my B.tech in Computer Science and Engineering from BBDITM, Lucknow. <br>
 Technology excites me and I am always in awe of the change it drives in the world. <br>
 Certain skills that I have worked with include Data Structures and Algorithms (Java), Front End Web Development, and Python.<br>

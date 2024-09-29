@@ -9,8 +9,8 @@ Experience<br>
 1. Two Month Summer Intern at the Ministry of Statistics & Programme Implementation in Data analytics and visualization.<br>
 2. Web Development Intern at Codsoft.<br>
 <br>
-Skills<be>
-<be>
+Skills<br>
+<br>
 Database: Postgresql and Mysql<br>
 Language: Python-Pandas, Numpy, Dash, Plotly, and Java(DSA)<br>
 web development: HTML5, CSS, Bootstrap, JavaScript, React<br>

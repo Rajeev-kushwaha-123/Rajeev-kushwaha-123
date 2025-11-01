@@ -1,14 +1,30 @@
-<h2>About</h2> <br>
-I am pursuing my B.tech in Computer Science and Engineering from BBDITM, Lucknow. <br>
-Technology excites me and I am always in awe of the change it drives in the world. <br>
-Certain skills that I have worked with include Data Structures and Algorithms (Java), Front End Web Development, and Python.<br>
-And what I might lack in skills I make up for with my determination to learn.<br>
-Outside of tech, I am a tea lover and love to play cricket and explore.<br>
-<h2>Experience</h2><br>
-1. Two Month Summer Intern at the Ministry of Statistics & Programme Implementation in Data analytics and visualization.<br>
-2. Web Development Intern at Codsoft.<br>
-<h2>Skills</h2><br>
-Database: Postgresql and Mysql<br>
-Language: Python-Pandas, Numpy, Dash, Plotly, and Java(DSA)<br>
-web development: HTML5, CSS, Bootstrap, JavaScript, React<br>
-other: Postman <br>
+# 👋 Hi, I'm Rajeev Kushwaha
+
+💻 **Full Stack Developer** passionate about building efficient, scalable, and user-focused web solutions.  
+🚀 Currently working at **Concentrix**, serving notice period (last working day: **20th November 2025**).  
+🌐 Experienced in developing **web apps** and **data dashboards** for **UK clients** and **government projects**.  
+📊 Completed internships at **MoSPI** and **CodSoft**, working on **data visualization** and **web development**.  
+🎓 **B.Tech (CSE)** graduate from **BBDITM, Lucknow (AKTU)** with **8.7 CGPA**, and hold a **Diploma in Electrical Engineering**.  
+🌱 Always eager to learn and explore new technologies in **Full Stack Development**, **AI**, and **Data Analytics**.  
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, PostgreSQL  
+- **Programming Languages:** Python, JavaScript  
+- **Tools & Platforms:** Git, GitHub, VS Code, Render, Vercel, Postman  
+
+---
+
+### 📈 Projects
+- 🏠 **Home Protect Insurance (TCAS – UK Client):** MERN-based claims automation system.  
+- 🏡 **Wanderlust (Airbnb Clone):** Full-stack web app for property listings and bookings.  
+- 📊 **Data Dashboard (MoSPI):** Visualization of Indian labor statistics using Plotly and Dash.  
+
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*  
+
